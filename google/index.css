@@ -1,0 +1,30 @@
+.main-container{
+    margin: 0 auto;
+    width: 800px;
+    height: 1600px;
+    background-color: #fff;
+    border-radius: 15px;
+    padding: 60px;
+    min-height: 700px;
+    margin-top: 10px;
+}
+body{
+    background-color: lightgreen;
+}
+.text{
+    width: 200px;
+    float: left;
+    font-size: 20px;
+}
+.graphics{
+    float: right;
+}
+.row{
+    padding: 10px;
+}
+.clear{
+    clear: both;
+}
+.s-border{
+    border-top: 2px solid green;
+}
